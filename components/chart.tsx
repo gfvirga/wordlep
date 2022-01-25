@@ -1,5 +1,4 @@
 import React from 'react'
-import pattern from 'patternomaly'
 
 import {
   Chart as ChartJS,
